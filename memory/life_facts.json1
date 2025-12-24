@@ -1,0 +1,97 @@
+{"type":"immigration","date":"2016-06","content":"Moved from China to the United States in June 2016.","source":"user"}
+
+{"type":"education","date":"2016-09","content":"Began attending Bellevue Christian School.","source":"user"}
+{"type":"education","date":"2024-06","content":"Graduated from Bellevue Christian School.","source":"user"}
+
+{"type":"education","date":"2022-06","end_date":"2022-12","content":"Attended Lake Washington Technical College (Welding Technology) in Kirkland, Washington.","source":"2026 Construction.docx"}
+
+{"type":"skill","category":"welding","proficiency":"proficient","content":"Proficient in Shielded Metal Arc Welding (SMAW) in compliance with WABO and ISO standards.","source":"2026 Construction.docx"}
+{"type":"skill","category":"metal_fabrication","proficiency":"proficient","content":"Proficient in torch cutting and metal fabrication following industry safety standards.","source":"2026 Construction.docx"}
+{"type":"skill","category":"welding","proficiency":"intermediate","content":"Intermediate skills in Flux-Cored Arc Welding (FCAW).","source":"2026 Construction.docx"}
+{"type":"skill","category":"welding","proficiency":"intermediate","content":"Intermediate skills in Oxy–Acetylene welding.","source":"2026 Construction.docx"}
+{"type":"skill","category":"cad","proficiency":"basic","content":"Basic experience with Computer-Aided Design (CAD) for use with plasma cutters.","source":"2026 Construction.docx"}
+
+{"type":"education","date":"2022-06","end_date":"2022-09","content":"Completed a Columbia University Business Negotiation program in New York (simulated M&A case negotiations).","source":"2026 Construction.docx"}
+
+{"type":"education","date":"2024-09","content":"Started studying Computer Science at the University of Washington.","source":"user"}
+{"type":"education","date":"2028-06","content":"Expected graduation from the University of Washington (Computer Science).","source":"user"}
+
+{"type":"experience","company":"Modec International","role":"Project Management Intern","date":"2023-06","end_date":"2023-09","content":"Worked on ExxonMobil UARU FPSO (Errea Wittu helicopter module). Led sea transportation from contractor facility to dry dock; assisted contractor negotiations; analyzed production/storage/drydock data to forecast module output; supported ExxonMobil site visits; translated technical discussions (English/Chinese). This internship occurred during my junior year of high school.","source":"2026 Construction.docx + user"}
+
+{"type":"experience","company":"PuWan Industry","role":"Project Management Intern","date":"2023-06","end_date":"2023-09","content":"Assisted contract negotiation, schedule planning, contractor bidding, material ordering, project monitoring, and delivery of 10 Cargotec marine cranes; coordinated 10+ subcontractors/suppliers; helped manage a team of ~30 engineers and trades.","source":"2026 Construction.docx + user"}
+
+{"type":"experience","company":"Seattle Software Developers","role":"Full Stack Engineer","date":"2025-06","end_date":"2025-09","content":"Led full-stack development and deployment of 10+ MERN applications; led team workflow with Agile and Git; integrated SAP; used AWS Cognito and EC2; trained and deployed Amazon Lex models.","source":"2026 Application Software Engineering.pdf"}
+
+{"type":"project","name":"Seattle DADU Built / New Construction","content":"Managed contractors to renovate a single-family property (electrical, painting, roofing, insulation, framing, windows) and built a ~1000 sqft DADU on the side lot using Seattle DADU laws.","source":"2026 Construction.docx"}
+
+{"type":"asset","asset_id":"home_1","asset_type":"residential_property","status":"completed","content":"Own a completed residential home (rehabbed).","source":"user"}
+{"type":"asset_value","asset_id":"home_1","date":"2026-01","content":"Estimated market value approximately $1,000,000.","source":"user"}
+
+{"type":"asset","asset_id":"home_2","asset_type":"residential_property","status":"under_construction","content":"Own a DADU on the side lot that is under construction.","source":"user"}
+{"type":"asset_value","asset_id":"home_2","date":"2026-01","content":"Estimated market value approximately $700,000.","source":"user"}
+
+{"type":"memory","date":"2026-01","content":"Rehabbed one residential house and built one DADU on the side lot; the main home is worth about $1,000,000 and the DADU is worth about $700,000 (estimated).","source":"user"}
+
+{"type":"skill","category":"language","content":"Chinese (native).","source":"2026 Construction.docx"}
+{"type":"skill","category":"language","content":"English (native).","source":"2026 Construction.docx"}
+{"type":"skill","category":"language","content":"Spanish (elementary).","source":"2026 Construction.docx"}
+
+{"type":"skill","category":"programming_language","content":"C/C++.","source":"2026 Construction.docx"}
+{"type":"skill","category":"programming_language","content":"Java.","source":"2026 Construction.docx"}
+{"type":"skill","category":"programming_language","content":"Python.","source":"2026 Construction.docx"}
+{"type":"skill","category":"programming_language","content":"JavaScript.","source":"2026 Application Software Engineering.pdf"}
+{"type":"skill","category":"programming_language","content":"Swift.","source":"2026 Application Software Engineering.pdf"}
+{"type":"skill","category":"programming_language","content":"ABAP.","source":"2026 Application Software Engineering.pdf"}
+
+{"type":"skill","category":"ml_framework","content":"PyTorch.","source":"2026 Application Software Engineering.pdf"}
+{"type":"skill","category":"ml_framework","content":"TensorFlow.","source":"2026 Application Software Engineering.pdf"}
+{"type":"skill","category":"ml_framework","content":"Keras.","source":"2026 Application Software Engineering.pdf"}
+{"type":"skill","category":"ml_framework","content":"Hugging Face Transformers.","source":"2026 Application Software Engineering.pdf"}
+{"type":"skill","category":"ml_framework","content":"OpenAI APIs.","source":"2026 Application Software Engineering.pdf"}
+
+{"type":"project","name":"SeaHoop","content":"Built a web app providing professional-level ocean fishing information for different Seattle areas and predicted biting conditions using HTML, CSS, JS, and Python.","source":"2026 Application Software Engineering.pdf"}
+{"type":"project","name":"AWS Cognito Intelligent Banking System","content":"Built a banking system using React, Express, Node, and MongoDB with AWS Cognito authentication and GenAI assistant features.","source":"2026 Application Software Engineering.pdf"}
+{"type":"project","name":"Saudi Stock AI Monitor","content":"Built a web app to monitor five major Saudi stocks and answer questions using DeepSeek integration; used HTML/CSS/JS/Node.","source":"2026 Application Software Engineering.pdf"}
+
+{"type":"business_positioning","biz_id":"harbour_ai","date":"2026-01","content":"Building an AI infrastructure integration company focused on GPU rack installation, power, cooling, and high-density AI pod deployment.","source":"user"}
+
+{"type":"business_niche","biz_id":"harbour_ai","date":"2026-01","content":"Niche integrator specializing in GPU racks + cooling, retrofits inside existing commercial buildings, and high-density AI pods inside colocation suites.","source":"user"}
+
+{"type":"business_brand","biz_id":"harbour_ai","name":"Harbour Solutions","status":"final_brand","content":"Final brand identity for the AI infrastructure integration company.","source":"user"}
+
+{"type":"service","biz_id":"harbour_ai","service_id":"building_retrofit","content":"AI Pod Retrofit – installs GPU racks in existing office/warehouse spaces including power, cooling, rack mounting, and airflow engineering.","source":"user"}
+
+{"type":"service","biz_id":"harbour_ai","service_id":"colo_pod","content":"AI Pod deployment inside customer colocation suites including rack layout, PDUs, containment, compliance, and integration.","source":"user"}
+
+{"type":"service","biz_id":"harbour_ai","service_id":"design_package","content":"GPU Rack + Cooling Design Package: consulting + engineering spec for clients who already have contractors but need AI infrastructure expertise.","source":"user"}
+
+{"type":"strategy","biz_id":"harbour_ai","strategy_id":"starter_tier","date":"2026-01","content":"Start with small-scale 4× H100 PCIe air-cooled pods (~$150K–$250K projects) to build portfolio, credibility, and experience.","source":"user"}
+
+{"type":"learning_timeline","biz_id":"harbour_ai","date":"2026-01","content":"Target learning + prototype timeline approximately 3–4 months before publicly launching the business.","source":"chatgpt_summary"}
+
+{"type":"geographic_strategy","biz_id":"harbour_ai","priority":"primary","content":"Primary initial market focus is the United States, particularly the Seattle / Pacific Northwest region.","source":"user"}
+
+{"type":"geographic_future_intent","biz_id":"harbour_ai","priority":"secondary","status":"maybe","content":"China is a potential future expansion market depending on timing, opportunity, and geopolitical environment.","source":"user"}
+
+{"type":"business_goal","biz_id":"harbour_ai","time_horizon":"long_term","content":"Ambition to scale Harbour Solutions to potentially $100M+ annual revenue through multi-rack pods, liquid-cooled high-density systems, and full AI room builds.","source":"user"}
+
+{"type":"market_understanding","biz_id":"harbour_ai","date":"2026-01","content":"Believes sub-Vertiv market is large and underserved: AI startups, research labs, hedge funds, biotech, enterprises, and colocation customers need on-prem GPU clusters and integration services.","source":"chatgpt_summary"}
+
+{"type":"business_commitment","biz_id":"harbour_ai","date":"2026-01","status":"definite","content":"Committed to building Harbour Solutions as a real AI infrastructure integration company.","source":"user"}
+
+{"type":"timeline_commitment","biz_id":"harbour_ai","date":"2026-01","content":"Committed to a 3–4 month timeline to learn, build a prototype, and publicly launch Harbour Solutions.","source":"user"}
+
+{"type":"family_business_origin","fam_id":"grandma_shipyard","relation":"grandmother","location":"China","content":"Grandmother started as a contractor in the shipyard industry with a team of approximately 10 welders.","source":"user"}
+
+{"type":"family_business_growth","fam_id":"grandma_shipyard","relation":"grandmother","content":"Grandmother expanded from a small contracting team into owning a factory of approximately 300,000 sqft.","source":"user"}
+
+{"type":"family_business_scope","fam_id":"grandma_shipyard","relation":"grandmother","content":"Grandmother's factory produced shipbuilding parts including cranes and marine valves.","source":"user"}
+
+
+{"type":"family_business_origin","fam_id":"father_shipyard","relation":"father","content":"Father and uncle began as shipyard contractors following the grandmother's success in the marine manufacturing industry.","source":"user"}
+
+{"type":"family_business_scale","fam_id":"father_shipyard","relation":"father","content":"Father and uncle expanded shipyard contracting operations to a peak workforce of approximately 1,000 people.","source":"user"}
+
+{"type":"family_business_growth","fam_id":"father_factory","relation":"father","content":"Father later built his own independent factory approximately 300,000 sqft in size.","source":"user"}
+
+{"type":"family_business_scope","fam_id":"father_factory","relation":"father","content":"Father's business operates across manufacturing of shipbuilding components, ship parts, marine systems, and structural steel products.","source":"user"}
